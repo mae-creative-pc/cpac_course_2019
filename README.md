@@ -2,7 +2,7 @@
 A repository to collect coding material for the Polimi's course "Creative Programming and Computing" held by prof. Massimiliano Zanoni in A.Y. 2019/2020
 
 # Your first git commands
-To _clone_ the repository, i.e., have a synced copy in your local computer, use the URL https://github.com/mbuccoli/creativepc2019.git from your Git client. If you feel bold, you can use the git command line
+To _clone_ the repository, i.e., have a synced copy in your local computer, use the URL https://github.com/mae-creative-pc/cpac_course_2019.git from your Git client. If you feel bold, you can use the git command line
 
 ```
 git clone https://github.com/mae-creative-pc/cpac_course_2019.git
